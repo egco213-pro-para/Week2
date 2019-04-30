@@ -1,0 +1,10 @@
+Apple 10.4 
+Apricot 9.2
+Banana 12.2
+Fig 47.9
+Grapes 15.5
+Orange 8.5
+Peach 8.4
+Pear 9.8
+Pineapple 9.9
+Plum 9.9
